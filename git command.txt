@@ -7,3 +7,4 @@ git remote add origin https://github.com/shaonshafiqul/learn-git.git
 git push -u origin main
 
 git diff
+git pull
