@@ -1,0 +1,9 @@
+echo "# learn-git" >> README.md
+git init
+git add .
+git commit -m "try to learn git"
+git branch -M main
+git remote add origin https://github.com/shaonshafiqul/learn-git.git
+git push -u origin main
+
+git diff
